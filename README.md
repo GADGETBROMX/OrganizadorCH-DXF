@@ -1,2 +1,2 @@
 # OrganizadorCH-DXF
-Archivos para corte laser 
+Archivos para corte laser de MDF
